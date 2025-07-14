@@ -1,2 +1,2 @@
-# mini
+# engine
 👔 A small C compiler
